@@ -1,4 +1,4 @@
-# Segue o manual para ativar do realtime do Asterisk para registro de ramal sip 2.0 via banco MySQL.  
+# Segue o manual para ativar do realtime do Asterisk 16 para registro de ramal sip 2.0 via banco MySQL.  
 
 ## No PABX
 
