@@ -119,7 +119,7 @@ CREATE TABLE asterisk.`sippeers` (
 ) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 ```
 
-2. Insert para criar um novo ramal.  
+3. Insert para criar um novo ramal.  
 ```
 INSERT INTO asterisk.sippeers
     (name, secret, host, context)
